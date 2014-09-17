@@ -1,0 +1,24 @@
+{
+    "name": "iespy/aliyun",
+    "type": "library",
+    "description": "about aliyun",
+    "keywords": ["ali","aliyun","alicloud"],
+    "homepage": "https://github.com/iespy/aliyun",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mengnan Feng",
+            "email": "y7@wlht.cn",
+            "homepage": "https://github.com/iespy/aliyun",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "aliyun": "sdk"
+        }
+    }
+}
